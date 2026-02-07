@@ -29,5 +29,7 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
     You should have a function named dfs_n_queens.
     The function should accept exactly one argument: an integer n.
     If n is less than 1, the function should return an empty list ([]).
-    The function should return a list of solutions; each solution is itself a list of length n, where the element at index i is the column index (0-based) of the queen in row i.
+    The function should return a list of solutions; each solution is itself a list
+    of length n, where the element at index i is the column index (0-based) of the
+    queen in row i.
 ```
